@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    <color name="app_bg">#592BAC</color>-->
+    <color name="app_bg">#202020</color>
+
+    <color name="hint_color">#E1E1E1</color>
+<!--    <color name="button_bg_1">#03A9F4</color>-->
+    <color name="button_bg_1">#0B0B0B</color>
+    <color name="yellow1">#FFEB3B</color>
+    <color name="red1">#FF0000</color>
+</resources>

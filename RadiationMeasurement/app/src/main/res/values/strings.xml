@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Radiation Measurement</string>
+    <string name="name">Radiation Reader</string>
+    <string name="loginacc_text">Login to your account</string>
+    <string name="signupacc_text">Create your account</string>
+    <string name="login_text">Login</string>
+    <string name="signup_text">Signup</string>
+    <string name="enter_email">Enter your Email:</string>
+    <string name="enter_password">Enter your Password:</string>
+    <string name="signup_here">No account? Signup here</string>
+    <string name="login_here">Already registered? Login here</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="start_measurement">Start Measurement</string>
+    <string name="ionizing">Ionizing</string>
+    <string name="measure_ionizing_radiation">Measure ionizing radiation</string>
+    <string name="measure_non_ionizing_radiation">Measure non-ionizing radiation</string>
+    <string name="non_ionizing">Non Ionizing</string>
+    <string name="select_bluetooth_device">SELECT BLUETOOTH DEVICE</string>
+    <string name="logout">Logout</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="reading">Reading…</string>
+    <string name="connected">Connected…</string>
+</resources>
